@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/wildanniam/GitHub-Profile-Console/generate"><img alt="Use this template" src="https://img.shields.io/badge/Use_this_template-Create_yours-0891B2?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/yokofajarsantosa/yokofajarsantosa/generate"><img alt="Use this template" src="https://img.shields.io/badge/Use_this_template-Create_yours-0891B2?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -186,7 +186,7 @@ Most issues are caused by a non-transparent image, a repository with the wrong n
 
 ## Credits
 
-Created by [Wildan Syukri Niam](https://github.com/wildanniam). The original design was developed for an AI Researcher and Web3 Builder profile, then rebuilt as a configurable public starter kit.
+Created by [Yoko Fajar Santosa](https://github.com/yokofajarsantosa). The original design was developed for an AI Researcher and Web3 Builder profile, then rebuilt as a configurable public starter kit.
 
 ## License
 
