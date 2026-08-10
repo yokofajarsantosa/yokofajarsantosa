@@ -1,0 +1,120 @@
+{
+  "$schema": "../profile.schema.json",
+
+  "profile": {
+    "name": "Yoko Fajar Santosa",
+    "username": "yokofajarsantosa",
+    "headline": "IT Infrastructure Specialist & Web Systems Builder",
+    "affiliation": "Amikom University",
+    "location": "Semarang, Indonesia",
+    "status": "Managing / Building / Improving",
+    "about": [
+      "I work as an IT Staff specializing in infrastructure, server administration, networking, system maintenance, and reliable digital services.",
+      "My work focuses on building, maintaining, and improving IT infrastructure and information systems, with an emphasis on reliability, security, performance, automation, and operational efficiency."
+    ]
+  },
+
+  "research": {
+    "primary": "IT Infrastructure & Systems",
+    "direction": "Reliable and secure digital infrastructure",
+    "themes": "Server / networking / DevOps / automation",
+    "narrative": "I am interested in building reliable IT environments where servers, networks, applications, databases, and automation work together efficiently. My focus includes infrastructure management, system monitoring, deployment, backup, security, performance optimization, and practical automation."
+  },
+
+  "focus": [
+    {
+      "name": "IT Infrastructure",
+      "description": "Server administration, Linux, VPS, networking, DNS, firewall, monitoring, backup, and infrastructure maintenance."
+    },
+    {
+      "name": "System Administration",
+      "description": "Deployment, configuration, maintenance, troubleshooting, security, database services, and operational reliability."
+    },
+    {
+      "name": "Web & Information Systems",
+      "description": "Building, maintaining, and integrating web-based information systems with reliable backend infrastructure and database services."
+    },
+    {
+      "name": "DevOps & Automation",
+      "description": "Deployment workflows, scheduled jobs, automated backups, system monitoring, testing, and infrastructure optimization."
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "IT Infrastructure",
+      "url": "",
+      "homepage": "",
+      "focus": "Academic information system infrastructure",
+      "summary": "Infrastructure and system management for academic information services, including server, database, deployment, backup, performance, and operational reliability.",
+      "heroLabel": "Academic IT infrastructure"
+    },
+    {
+      "name": "Web Information Systems",
+      "url": "https://github.com/yokofajarsantosa",
+      "homepage": "",
+      "focus": "Web-based information systems",
+      "summary": "Development and maintenance of web-based systems with a focus on backend services, database integration, system reliability, and practical business workflows.",
+      "heroLabel": "Information systems"
+    },
+    {
+      "name": "Infrastructure Automation",
+      "url": "https://github.com/yokofajarsantosa",
+      "homepage": "",
+      "focus": "IT automation and operations",
+      "summary": "Automation of operational tasks such as scheduled backups, system maintenance, deployment processes, monitoring, and infrastructure management.",
+      "heroLabel": "Infrastructure automation"
+    },
+    {
+      "name": "AI & Web3 Exploration",
+      "url": "https://github.com/yokofajarsantosa",
+      "homepage": "",
+      "focus": "Emerging technology research",
+      "summary": "Independent exploration of AI agents, Web3 infrastructure, blockchain applications, and autonomous software systems.",
+      "heroLabel": "AI & Web3 research"
+    }
+  ],
+
+  "techStack": [
+    "Linux",
+    "Windows Server",
+    "Networking",
+    "TCP/IP",
+    "DNS",
+    "DHCP",
+    "Firewall",
+    "VPS",
+    "Git",
+    "PHP",
+    "CodeIgniter",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "PostgreSQL",
+    "MySQL",
+    "Playwright",
+    "Python",
+    "TypeScript"
+  ],
+
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "yokofajarsantosa",
+      "url": "https://github.com/yokofajarsantosa.github.io",
+      "logo": "github",
+      "color": "0B1220"
+    }
+  ],
+
+  "activity": {
+    "enabled": true,
+    "limit": 6
+  },
+
+  "appearance": {
+    "palette": "signal"
+  },
+
+  "footer": "Building reliable infrastructure, practical information systems, and better digital services."
+}
